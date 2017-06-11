@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 print('lostcanvas');
 print('hello world');
 print('100+200=',100+200);
@@ -16,4 +15,4 @@ b = 1
 if a == b:
 	print('true')
 else:
-	print('false',a,b)
+	print('false')
